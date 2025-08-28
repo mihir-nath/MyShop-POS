@@ -1,0 +1,77 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Pizza",
+            "price":" 200",
+            "image":"https://cdn.pixabay.com/photo/2014/07/08/12/34/pizza-386717_960_720.jpg"
+        },
+        {
+            "id":2,
+            "name":"Burger",
+            "price":" 150",
+            "image":"https://cdn.pixabay.com/photo/2015/07/30/18/23/burger-868145__340.jpg"
+        },
+        {
+            "id":3,
+            "name":"Momos",
+            "price":" 100",
+            "image":"https://media.istockphoto.com/photos/japanese-dumplings-gyoza-with-pork-meat-and-vegetables-picture-id1133151212?b=1&k=20&m=1133151212&s=170667a&w=0&h=-XPU-BOpOepaVLcVsMuXyZNSml80XlY_KDFKsSWW8ug="
+        },
+        {
+            "id":4,
+            "name":"Biriyani",
+            "price":" 250",
+            "image":"https://media.istockphoto.com/photos/grilled-chicken-biryani-in-a-dish-served-with-salad-raita-sauce-and-picture-id1402719416?b=1&k=20&m=1402719416&s=170667a&w=0&h=-lOFDfvMLQpcfVmgg4p0akBbg2HaQvswx5KYgExdc3s="
+        },
+        {
+            "id":5,
+            "name":"Noodles",
+            "price":" 150",
+            "image":"https://media.istockphoto.com/photos/delicious-spaghetti-served-on-a-black-plate-picture-id1136814342?b=1&k=20&m=1136814342&s=170667a&w=0&h=OTYHzDSi7UyoJ5DbEu9JsTkREDAIDXkTsw4ic7OK48w="
+        },
+        {
+            "id":6,
+            "name":"Rolls",
+            "price":" 100",
+            "image":"https://cdn.pixabay.com/photo/2017/08/25/15/10/egg-roll-2680478__340.jpg"
+        },
+        {
+            "id":7,
+            "name":"Chicken Curry",
+            "price":" 300",
+            "image":"https://cdn.pixabay.com/photo/2016/07/22/05/07/delicious-1534207__480.jpg"
+        },
+        {
+            "id":8,
+            "name":"Fish Curry",
+            "price":" 300",
+            "image":"https://media.istockphoto.com/photos/tasty-fish-curry-stew-coconut-milk-picture-id910315272?b=1&k=20&m=910315272&s=170667a&w=0&h=NSQe5xnXj_VRuGxWb-hKApEORkHm-bv2FCWbPrQqBww="
+        },
+        {
+            "id":9,
+            "name":"Samosa",
+            "price":" 50",
+            "image":"https://media.istockphoto.com/photos/samsa-or-samosas-with-meat-and-vegetables-picture-id1173884477?b=1&k=20&m=1173884477&s=170667a&w=0&h=9_6bYMnGWoGsYF1FxVUby0_RHmPNlM4ibqx-JQyN_vQ="
+        },
+        {
+            "id":10,
+            "name":"Panipuri",
+            "price":" 30",
+            "image":"https://cdn.pixabay.com/photo/2022/03/23/15/40/panipuri-7087439__340.jpg"
+        },
+        {
+            "id":11,
+            "name":"Shahi Paneer",
+            "price":" 250",
+            "image":"https://media.istockphoto.com/photos/kadai-paneer-picture-id486066908?b=1&k=20&m=486066908&s=170667a&w=0&h=ZW9A9EnW2GsOF8ypj-0UumrUCyk84J6tBZpfYS3_8OY="
+        },
+        {
+            "id":12,
+            "name":"Masala Dosa",
+            "price":" 200",
+            "image":"https://media.istockphoto.com/photos/fi/juusto-masala-dosa-resepti-sambar-ja-chutney-valikoiva-painopiste-id1156896083?b=1&k=20&m=1156896083&s=170667a&w=0&h=w-Nzd7k6aOxeB4uTpZOkl9j0g601j_gakXpRO0mibLw="
+        }
+        
+    ]
+}
